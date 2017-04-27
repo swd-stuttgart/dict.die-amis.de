@@ -38,6 +38,8 @@ Say what the step will be
 ```
 Install Python 2.7
 ```
+Go to Python official website and download the version for your operating system. Then you need to check if you installed it correctly. Then you need an editor to write your code. You may want to download Sublime Text, Atom, PyCharm or Aptana.
+
 ```
 Install pip (package manager)
 ```
