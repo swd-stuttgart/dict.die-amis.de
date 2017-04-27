@@ -1,5 +1,8 @@
 ![alt text](https://raw.githubusercontent.com/swd-stuttgart/dict.die-amis.de/master/die_amis_project_header.jpg)
 
+# About
+[Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and helps them to learn American English which is being developed by SWD in Stuttgart, Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
+
 # dict.die-amis.de
 
 An online dictionary app for English-German and German-English translations - Python, Django, Django REST Framework, AngularJS, html and css.
@@ -23,6 +26,9 @@ Python 2.7
 ```
 ```
 pip
+```
+```
+virtualenv
 ```
 ```
 Django
