@@ -36,6 +36,7 @@ Django REST Framework
 A step by step series of examples that tell you have to get a development env running
 
 **1. Install Apache**
+
 The Apache HTTP Server, colloquially called Apache, is the world's most used web server software. To install apache, open terminal and type in these commands:
 
 ```
@@ -44,6 +45,7 @@ sudo apt-get install apache2
 ```
 
 **2. Install MySQL**
+
 MySQL is a powerful database management system used for organizing and retrieving data
 
 To install MySQL, open terminal and type in these commands:
@@ -52,9 +54,15 @@ sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql
 ```
 
 **3. Install Python**
-Go to Python official website and download the version for your operating system. Then you need to check if you installed it correctly. Then you need an editor to write your code. You may want to download Sublime Text, Atom, PyCharm or Aptana.
+
+Then you need to check if you installed it correctly.
+
+```
+sudo apt-get install python3
+```
 
 **4. Install pip (package manager)**
+
 Package managers helps us to install Python libraries and tools. We will use it to install Django web framework. There are different package managers but our choice is “pip”.
 
 But before installing pip you may want to check if it is already installed or not. Because some versions of Python has already pip installed in it.
