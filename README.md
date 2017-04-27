@@ -5,12 +5,29 @@ dict.die-amis.de is English-German / German-English dictionary application which
 
 [Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
 
-# Project
+# Project: MVP
+
+A minimum viable product has just those core features sufficient to deploy the product, and no more. During this project our team will develop only 1 feature: dictionary search, beginning from 01.01.2017 until 31.12.2017.
 
 **Scrum Team:**
 
-Product Owner: 
-Scrum Master: 
+Product Owner: h3z4r
+
+Scrum Master: h3z4r
+
+Back-End Developer: h3z4r
+
+Front-End Developer: h3z4r
+
+**Product Backlog**
+
+This Project:
+- Search: As a non-registered user I can search the database
+
+Future: 
+- Profiles: As a non-registered user I can create a profile and add information about myself
+- Contribute: As a registered user I can add, edit and delete entries in dictionary.
+- FAQ: As a registered or non-registered user I can read frequently asked questions.
 
 **Important Dates**
 
