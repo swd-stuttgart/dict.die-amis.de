@@ -21,6 +21,7 @@ Start: 01.04.2017
 Deadline: 30.06.2017
 
 **Scrum Team:**
+The team has 7 members. Version control is done by Git and Github. You can see the roles, issues and commits on [our GitHub repository](http://#).
 
 - Product Owner: h3z4r
 - Scrum Master: h3z4r
@@ -30,11 +31,8 @@ Deadline: 30.06.2017
 - Front-End Developer: h3z4r
 - System Administrator: h3z4r
 
-**Version Control Tool: Git & GitHub**
-
-Control code on [our GitHub repository](http://#).
-
 **Product Backlog**
+Follow project tasks on [our Trello page](http://#).
 
 In this phase:
 - As a user I can search the database
@@ -45,12 +43,6 @@ In future phases:
 - Profiles: As a non-registered user I can create a profile and add information about myself
 - Contribute: As a registered user I can add, edit and delete entries in dictionary.
 - FAQ: As a registered or non-registered user I can read frequently asked questions.
-
-**Product Backlog Task Management Tool: Trello**
-
-Follow project updates on [our Trello page](http://#).
-
-
 
 
 ## Getting Started
