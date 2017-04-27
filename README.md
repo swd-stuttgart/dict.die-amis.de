@@ -8,10 +8,18 @@ dict.die-amis.de is English-German / German-English dictionary application which
 # Project
 
 **Scrum Team:**
-1. h3z4r
-2. acerdogan
+
+Product Owner: 
+Scrum Master: 
+
 **Important Dates**
+
 Begin: 01.01.2017
+
+Sprint 01 (4 Weeks): 
+
+Sprint 02 (4 Weeks): 
+
 End: 31.12.2017
 
 
