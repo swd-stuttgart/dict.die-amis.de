@@ -11,6 +11,8 @@ This project is one of four in which the minimum viable product will be develope
 
 **Sprints**
 
+This project includes 4 sprints -each 2 weeks- as seen below:
+
 Start: 01.04.2017
 
 - Sprint 01 (2 Weeks):
@@ -21,6 +23,7 @@ Start: 01.04.2017
 Deadline: 30.06.2017
 
 **Scrum Team:**
+
 The team has 7 members. Version control is done by Git and Github. You can see the roles, issues and commits on [our GitHub repository](http://#).
 
 - Product Owner: h3z4r
@@ -32,6 +35,7 @@ The team has 7 members. Version control is done by Git and Github. You can see t
 - System Administrator: h3z4r
 
 **Product Backlog**
+
 Follow project tasks on [our Trello page](http://#).
 
 In this phase:
