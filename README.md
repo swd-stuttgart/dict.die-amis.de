@@ -6,13 +6,19 @@ dict.die-amis.de is English-German / German-English dictionary application which
 [Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
 
 # Project Management
-**Minimim Viable Product (Phase 1)**
-This project is one of four in which the minimum viable product will be developed. A minimum viable product has just those core features sufficient to deploy the product, and no more. During this project our team will develop a search feature, beginning from 01.04.2017 until 30.06.2017 -the second quarter of 2017.
 
+This project is one of four in which the minimum viable product will be developed. A minimum viable product has just those core features sufficient to deploy the product, and no more. During this project our team will develop a search feature, beginning from 01.04.2017 until 30.06.2017 -the second quarter of 2017. Follow project updates on [our Jira page](http://#).
 
-**Project Management Tool: Jira**
+**Sprints**
 
-Follow project updates on [our Jira page](http://#).
+Start: 01.04.2017
+
+- Sprint 01 (2 Weeks):
+- Sprint 02 (2 Weeks): 
+- Sprint 03 (2 Weeks): 
+- Sprint 04 (2 Weeks): 
+
+Deadline: 30.06.2017
 
 **Scrum Team:**
 
@@ -44,19 +50,7 @@ In future phases:
 
 Follow project updates on [our Trello page](http://#).
 
-**Important Dates**
 
-Begin: 01.04.2017
-
-Sprint 01 (2 Weeks):
-
-Sprint 02 (2 Weeks): 
-
-Sprint 03 (2 Weeks): 
-
-Sprint 04 (2 Weeks): 
-
-End: 30.06.2017
 
 
 ## Getting Started
