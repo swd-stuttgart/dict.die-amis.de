@@ -5,9 +5,9 @@ dict.die-amis.de is English-German / German-English dictionary application which
 
 [Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
 
-# Project: MVP
+# Project: Minimim Viable Product (Phase 1)
 
-A minimum viable product has just those core features sufficient to deploy the product, and no more. During this project our team will develop only 1 feature: dictionary search, beginning from 01.01.2017 until 31.12.2017.
+This project is one of four in which the minimum viable product will be developed. A minimum viable product has just those core features sufficient to deploy the product, and no more. During this project our team will develop a search feature, beginning from 01.04.2017 until 30.06.2017 -the second quarter of 2017.
 
 **Scrum Team:**
 
