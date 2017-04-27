@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/swd-stuttgart/dict.die-amis.de/master/die_amis_project_header.jpg)
 
 # About
-[Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
+dict.die-amis.de is English-German / German-English dictionary which is one of the main features of **Die Amis**. [Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
 
 # dict.die-amis.de
 
