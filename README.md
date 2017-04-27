@@ -15,29 +15,41 @@ Product Owner: h3z4r
 
 Scrum Master: h3z4r
 
+UX Designer: h3z4r
+
+UI Designer: h3z4r
+
 Back-End Developer: h3z4r
 
 Front-End Developer: h3z4r
 
+System Administrator: h3z4r
+
 **Product Backlog**
 
-This Project:
-- Search: As a non-registered user I can search the database
+In this phase:
+- As a user I can search the database
+- As a user I can see the search results
+- As a user I can see word type, phonetik, translation and sample sentences
 
-Future: 
+In future phases: 
 - Profiles: As a non-registered user I can create a profile and add information about myself
 - Contribute: As a registered user I can add, edit and delete entries in dictionary.
 - FAQ: As a registered or non-registered user I can read frequently asked questions.
 
 **Important Dates**
 
-Begin: 01.01.2017
+Begin: 01.04.2017
 
-Sprint 01 (4 Weeks): 
+Sprint 01 (2 Weeks):
 
-Sprint 02 (4 Weeks): 
+Sprint 02 (2 Weeks): 
 
-End: 31.12.2017
+Sprint 03 (2 Weeks): 
+
+Sprint 04 (2 Weeks): 
+
+End: 30.06.2017
 
 
 ## Getting Started
