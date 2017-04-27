@@ -61,6 +61,8 @@ Then you need to check if you installed it correctly.
 sudo apt-get install python3
 ```
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RhE0kgsEAUE/0.jpg)](https://www.youtube.com/watch?v=RhE0kgsEAUE)
+
 **4. Install pip (package manager)**
 
 Package managers helps us to install Python libraries and tools. We will use it to install Django web framework. There are different package managers but our choice is “pip”.
