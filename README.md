@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/swd-stuttgart/dict.die-amis.de/master/die_amis_project_header.jpg)
+
 # dict.die-amis.de
 
 An online dictionary app for English-German and German-English translations - Python, Django, Django REST Framework, AngularJS, html and css.
