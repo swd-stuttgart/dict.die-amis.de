@@ -5,9 +5,15 @@ dict.die-amis.de is English-German / German-English dictionary application which
 
 [Die Amis](http://www.die-amis-de) is an e-learning application which helps native German speakers to discover American Culture and learn American English which is being developed by [SWD Stuttgart](http://github.com/swd-stuttgart) in Germany. This repository (dict.die-amis.de) represent one of the features of this application. 
 
-# dict.die-amis.de
+# Project
 
-An online dictionary app for English-German and German-English translations - Python, Django, Django REST Framework, AngularJS, html and css.
+**Scrum Team:**
+1. h3z4r
+2. acerdogan
+**Important Dates**
+Begin: 01.01.2017
+End: 31.12.2017
+
 
 ## Getting Started
 
